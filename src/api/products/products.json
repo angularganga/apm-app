@@ -1,0 +1,52 @@
+[
+    {
+      "productId": 1,
+      "productName": "Peacock by a lake",
+      "productCode": "GDN-0011",
+      "releaseDate": "March 19, 2016",
+      "description": "Peacock in your own garden",
+      "price": 19.95,
+      "starRating": 3.2,
+      "imageUrl": "https://ii.designtoscano.com/fcgi-bin/iipsrv.fcgi?FIF=/images/toscano/source/KY1876_1.tif&qlt=100&wid=1000=&cvt=jpeg"
+    },
+    {
+      "productId": 2,
+      "productName": "Mountain for relaxation",
+      "productCode": "GDN-0023",
+      "releaseDate": "March 18, 2016",
+      "description": "Perfect place to practice mindfulness",
+      "price": 32.99,
+      "starRating": 4.5,
+      "imageUrl": "./assets/images/JasperPark2.jpg"
+    },
+    {
+      "productId": 5,
+      "productName": "Lake Louise scenic view",
+      "productCode": "TBX-0048",
+      "releaseDate": "May 21, 2016",
+      "description": "The breath taking view of Lake Louise",
+      "price": 8.9,
+      "starRating": 4.8,
+      "imageUrl": "./assets/images/JasperPark3.jpg"
+    },
+    {
+      "productId": 8,
+      "productName": "Lake Louise Adventures",
+      "productCode": "TBX-0022",
+      "releaseDate": "May 15, 2016",
+      "description": "Canoe trip around Lake Louise",
+      "price": 11.55,
+      "starRating": 3.7,
+      "imageUrl": "./assets/images/JasperPark4.jpg"
+    },
+    {
+      "productId": 10,
+      "productName": "Lake and Mountain",
+      "productCode": "GMG-0042",
+      "releaseDate": "October 15, 2016",
+      "description": "Untoched Nature of Lake and Mountain",
+      "price": 35.95,
+      "starRating": 4.6,
+      "imageUrl": "./assets/images/JasperPark5.jpg"
+    }
+  ]
